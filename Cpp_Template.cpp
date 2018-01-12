@@ -14,10 +14,7 @@ typedef long long ll;
 
 using namespace std;
 
-struct LClass{
-	
-	/* Struct like class but more convenient */
-	//int, string, char, etc
+struct cc{
 };
 
 int main(){
