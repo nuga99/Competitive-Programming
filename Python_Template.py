@@ -6,8 +6,8 @@ def main():
     n = stdin.readline()
  
     # array input similar method
-    arr = [int(x) for x in stdin.readline().split()]
-    stdout.write(str(summation))
+    
+    stdout.write(str(n))
  
 # call the main method
 if __name__ == "__main__":
